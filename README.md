@@ -39,4 +39,4 @@ In order to run this workshop it is recommended to have at least 8GB of RAM, 4 C
 
 The Minishift virtual machine is configured by default with 4GB of RAM, 2 CPU cores and 20GB of hard drive space (this is adjustable as described in “[initial setup](https://github.com/red-hat-academy/openshift-workshop/wiki/initial-setup)”). 
 ***
->[Continue with Workshop](https://github.com/rapchic/openshift-workshop)
+>[Continue with Workshop](https://github.com/red-hat-academy/openshift-workshop/wiki)
